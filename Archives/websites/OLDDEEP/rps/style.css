@@ -1,0 +1,110 @@
+body {
+    background-color: aquamarine;+
+}
+
+#Papper {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 14px 35px 10px 0 rgba(0, 0, 0, 0.19);
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    height: 30%;
+    width: 15%;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    
+}
+
+#Scissors {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 14px 35px 10px 0 rgba(0, 0, 0, 0.19);
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    height: 30%;
+    width: 15%;
+    position: absolute;
+    left: 60%;
+    top: 20%;
+}
+
+#Rock {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 14px 35px 10px 0 rgba(0, 0, 0, 0.19);
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    height: 30%;
+    width: 15%;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+
+
+#img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 14px 35px 10px 0 rgba(0, 0, 0, 0.19);
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    height: 30%;
+    width: 15%;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+
+
+#welcome {
+    color: darkblue;
+    font-size: 300%;
+    position: absolute;
+    left: 20%;
+    top: 5%;
+}
+
+table {
+    border-style: solid;
+    border-width: thick;
+    color: darkblue;
+    border-color: aqua;
+    font-family: arial, sans-serif;
+    width: 50%;
+    position: absolute;
+    top: 60%;
+    left: 25%;
+}
+th, td{
+   border-style: solid;
+   border-width: thick;
+   border-color: darkblue;
+}
+
+
+.button {
+    position: absolute;
+    top: 54%;
+    left: 41%;
+    background-color: blue;
+    border: none;
+    color: aquamarine;
+    padding: 16px 32px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 10s;
+    cursor: crosshair;
+}
+
+.button1 {
+    background-color: greenyellow; 
+    color: black; 
+    border: 3px solid #4CAF50;
+}
+
+.button1:hover {
+    background-color: aqua;
+    color: blue;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>RPS</title>
+</head>
+<body>
+    <h1 id="welcome" >Welcome to ROCK, PAPER, SCISSORS, SHOOT!</h1>
+    
+    
+    
+    <table id="table" >
+  <tr>
+    <th>Wins</th>
+    <th>Ties</th>
+    <th>Lost</th>
+    <th>Total Score</th>
+  </tr>
+  <tr>
+    <td id="win" ></td>
+    <td id="tie"></td>
+    <td id="loss"></td>
+    <td id="total"></td>
+  </tr>
+  <tr>
+ 
+
+
+</table>
+           <button id="fix" type="button" onclick="Fix()">Fix</button>
+
+
+    
+    <img id="Papper" src="paper.png" onclick="myFunction()"/>
+    <img id="Rock" src="rock.png" onclick="myFunction()" />
+    <img id="Scissors" src="scissors.png" onclick="myFunction()" />
+   <!-- <img id="img" src="image.jpg"/> -->
+    <script src="java.js"></script>
+    
+</body>
+</html>
