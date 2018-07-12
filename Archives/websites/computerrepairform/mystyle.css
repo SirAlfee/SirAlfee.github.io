@@ -1,0 +1,45 @@
+#welcome {
+    text-align: center;
+    color: blue;
+    font-size: 90px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#description {
+    text-align: center;
+    color: blue;
+    border-color: blue;
+    border-top: 30px;
+    border-right: 20px;
+    border-left: 20px;
+    border-bottom: 30px;
+    border-style: solid;
+    font-size: 20px;
+    position: relative;
+    left: 145px;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    background-color: aqua;
+}
+
+
+#clock {
+    text-align: center;
+    color: blue;
+    border-color: blue;
+    border-top: 30px;
+    border-right: 20px;
+    border-left: 20px;
+    border-bottom: 30px;
+    border-style: solid;
+    width: 500px;
+    background-color: aqua;
+    font-size: 100px;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}

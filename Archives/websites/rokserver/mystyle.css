@@ -1,0 +1,160 @@
+body {
+    margin: 0;
+}
+
+
+html {
+    background: url(rok_background_1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#knights {
+    color: white;
+    width: 50%;
+    font-size: 50px;
+    text-align: center;
+    float: left;
+    color: rgb(255, 224, 26);
+
+}
+
+#table {
+    color: white;
+    width: 50%;
+    font-size: 50px;
+    text-align: center;
+    float: right;
+    color: rgb(255, 224, 26);
+
+
+}
+
+#boudingboxarpundserver {
+    border-color: black;
+    border-top: 20px;
+    border-right: 20px;
+    border-left: 20px;
+    border-bottom: 20px;
+    border-style: solid;
+    position: relative;
+    width: 13%;
+    background-color: rgb(72, 36, 0);
+    float: right;
+}
+
+
+
+
+#chain {
+    background-color: rgb(88, 88, 88);
+    resize: none;
+
+    position: relative;
+
+
+}
+
+#chainlog {
+    color: rgb(255, 224, 26);
+    position: relative;
+    text-align: center;
+}
+
+#form {
+    background-color: rgb(88, 88, 88);
+    resize: none;
+    text-align: center;
+    position: relative;
+    left: 15px;
+
+}
+
+#ask {
+    color: rgb(255, 224, 26);
+    position: relative;
+    text-align: center;
+}
+
+#store {
+    border-color: black;
+    border-top: 20px;
+    border-right: 20px;
+    border-left: 20px;
+    border-bottom: 20px;
+    border-style: solid;
+    position: relative;
+    top: 110px;
+    left: 14%;
+    width: 69%;
+    background-color: rgb(72, 36, 0);
+    float: left;
+
+}
+
+label {
+    color: rgb(255, 224, 26);
+}
+
+#thankyou_message {
+    color: rgb(255, 224, 26);
+}
+
+#admin {
+    border-color: black;
+    border-top: 20px;
+    border-right: 20px;
+    border-left: 20px;
+    border-bottom: 20px;
+    border-style: solid;
+    position: relative;
+
+    width: 13%;
+    background-color: rgb(72, 36, 0);
+    float: right;
+}
+
+#list_admin {
+    background-color: rgb(88, 88, 88);
+    resize: none;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+
+}
+
+
+#server {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 224, 26);
+}
+
+
+/* For side nav ----------------------------------------------------------------------------------- */
+
+.icon-bar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+
+.icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+}
+
+.icon-bar a:hover {
+    background-color: rgb(72, 36, 0);
+}
+
+.active {
+    background-color: rgb(255, 224, 26) !important;
+}

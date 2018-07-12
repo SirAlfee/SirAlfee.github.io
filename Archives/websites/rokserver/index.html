@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="SirAlfee.github.io/index.html" />
+    <link rel="icon" href="/Favicon.png">
+    <title>Knights Table</title>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+
+<body>
+    <!-- side nav -->
+    <div class="icon-bar">
+        <a href="../../../index.html"><i class="fa fa-home"></i></a>
+        <a href="../../index.html"><i class="fa fa-book"></i></a>
+        <a href="../WebGames/index.html"><i class="fa fa-gamepad" aria-hidden="true"></i></a>
+        <a href="../server_list/index.html"><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+    </div>
+
+    <h1 id="knights">Knights</h1>
+    <h1 id="table">Table</h1>
+    <h3 id="server">server not up</h3>
+
+    <div id="store">
+        <h1 id="ask">Want your own store</h1>
+        <h2 id="ask">Get a building permit</h2>
+
+
+
+
+        <!-- START HERE -->
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+        <!-- Style The Contact Form How Ever You Prefer -->
+        <link rel="stylesheet" href="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/style.css">
+
+        <form id="gform" method="POST" class="pure-form pure-form-stacked" action="https://script.google.com/macros/s/AKfycbzbNpUdE0vh6Q6w0NVdUPwocCWQ3fEC-auHihWJo2OfNZU_WPA/exec">
+            <!-- change the form action to your script url -->
+
+            <fieldset class="pure-group">
+                <label for="name">Name: </label>
+                <input id="name" name="name" placeholder="Sir Alfee" required/>
+            </fieldset>
+
+            <fieldset class="pure-group">
+                <label for="Game">Name IN GAME </label>
+                <input id="Game" name="Game" placeholder="Sir Alfee" required/>
+            </fieldset>
+
+            <fieldset class="pure-group">
+                <label for="idea">What Is your Shop?: </label>
+                <textarea id="idea" name="idea" rows="10" placeholder="What do you have in mind for a shop"></textarea>
+            </fieldset>
+
+            <fieldset class="pure-group">
+                <label for="email"><em>Your</em> Email Address:</label>
+                <input id="email" name="email" type="email" value="" required placeholder="your.name@email.com" />
+                <span id="email-invalid" style="display:none">
+        Must be a valid email address</span>
+            </fieldset>
+
+
+            <fieldset class="pure-group">
+                <label for="is pvp aloud in shop"><em>Your</em> Is PVP aloud in your shop?</label>
+                <input type="radio" name="pvp" value="yes" checked> yes<br>
+                <input type="radio" name="pvp" value="no"> no<br>
+                <input type="radio" name="pvp" value="RP"> only Rp<br><br>
+            </fieldset>
+
+            <fieldset class="pure-group">
+                <label for="Shop">Name of shop</label>
+                <input id="Shop" name="Shop" placeholder="Kings Tavern" required/>
+            </fieldset>
+            <h3>your keygen will apear below copy it into here</h3>
+            <fieldset class="pure-group">
+
+                <label for="text">keygen</label>
+
+                <input id="text" name="text" placeholder="keygen" required/>
+
+            </fieldset>
+
+            <button class="button-success pure-button button-xlarge">
+      <i class="fa fa-paper-plane"></i>&nbsp;Sign</button>
+            <h1 id="keygen"></h1>
+        </form>
+        <button onclick="myFunction()">press here for keygen</button>
+        <!-- Customise the Thankyou Message People See when they submit the form: -->
+        <div style="display:none;" id="thankyou_message">
+            <h2><em>Thanks</em> We will validate this! We will get back to you soon!</h2>
+        </div>
+
+        <!-- Submit the Form to Google Using "AJAX" -->
+        <script data-cfasync="false" type="text/javascript" src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+        <!-- <script data-cfasync="false" type="text/javascript"
+  src="/form-submission-handler.js"></script> -->
+        <!-- END -->
+        <script data-cfasync="false" type="text/javascript" src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+
+
+
+
+
+    </div>
+    <div id="admin">
+        <h1 id="chainlog">Workers</h1>
+
+        <textarea id="list_admin" rows="8" cols="10" readonly>Sir Alfee -OWNER
+
+MR.SANDMANRED - ADMIN
+
+ZERO - ADMIN
+</textarea>
+    </div>
+
+    <div id="boudingboxarpundserver">
+        <h1 id="chainlog">Chainlog</h1>
+
+        <textarea id="chain" rows="0" cols="0" readonly>
+</textarea>
+    </div>
+
+    <a href="https://twitter.com/Ice_Gaming2002" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Ice_Gaming2002</a>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://twitter.com/intent/tweet?screen_name=Ice_Gaming2002" class="twitter-mention-button" data-show-count="false">Tweet to @Ice_Gaming2002</a>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    <script src="myscripts.js">
+    </script>
+</body>
+
+</html>
