@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+     <link rel="icon" href="IMG_0573.PNG" type="image/gif" sizes="16x16">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>Ark Survival Evolved</title>
+</head>
+<body>
+<heading id="e" > ARK SURVIVAL EVOLVED&#169;</heading>  
+<h3 id="a">Welcome to the unofficial community website about Ark Survival Evolved designed and created by <h3 id="b">@G&H</h3> </h3>
+ 
+
+    <ul class="r">
+  <li><a href="ARK.html">Ark Survial Evolved</a></li>
+  <li><a href="RU.html">Recent Updates</a></li>
+  <li><a href="Dino%20Dossiers%20-%20Official%20ARK_%20Survival%20Evolved%20Wiki_files/Dino.html">All Dino's</a></li>
+    <li><a id="abcdefg" href="../../Home/index.html">Back To Home</a></li>
+</ul>
+
+<table>
+
+    
+      <tr>
+    <th>Patch</th>
+    <th>About</th>
+    <th>Release Date</th></tr>
+  <tr>
+    <td><a href="../ARK/RU/Patch%20258.html">Patch v258:</a></td>
+    <td>Patch 258: Harpoon Gun, Yutyrannus, Optimizations!!!, 2 New Hairstyles, and more!</td>
+    <td>ETA: May 30, 2017</td></tr>
+    <tr>
+    <td><a href="RU/Patch%20257.html">Patch v257:</a></td>
+    <td>Patch 258: Tek Tier, Giant Bee, Daeodon, Liopleurodon, Kentrosaurus, and more!</td>
+    <td>May 5, 2017</td>
+    </tr>
+    
+    <tr>
+    <td><a href="RU/Patch%20256.html">Patch v256:</a></td>
+    <td>Patch 256: Tek Tier phase 3, Equus, Leedsichthys, Ichthyornis, Iguanodon, and more! </td>
+    <td>March 31, 2017</td>
+    </tr>
+   
+          <tr>
+    <td><a href="RU/Patch%20255.html">Patch v255:</a></td>
+    <td>Patch 255: Tek Tier Phase 2, Electrophorus, Microraptor, Ammonite, and more!
+</td>
+    <td>February 26, 2017</td>
+  
+  
+      
+  </tr>
+  <tr>
+    <td><a href="../ARK/RU/Patch%20254.html">Patch v254:</a></td>
+    <td>Patch 254: Tek Tier, Purlovia, Baryonyx, Basilosaurus, Ovis, Hair, Ark Sale, and more!</td>
+    <td>January 30, 2017</td>
+    
+  </tr>
+
+
+
+
+</table>
+
+    
+    </body>
+</html>

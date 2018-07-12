@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+     <link rel="icon" href="IMG_0573.PNG" type="image/gif" sizes="100x100">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>Ark Survival Evolved</title>
+</head>
+<body>
+<heading id="e" > ARK SURVIVAL EVOLVED&#169;</heading>  
+<h3 id="a">Welcome to the unofficial community website about Ark Survival Evolved designed and created by <h3 id="b">@G&H</h3> </h3>
+ 
+
+    <ul class="r">
+  <li><a href="ARK.html">Ark Survial Evolved</a></li>
+  <li><a href="RU.html">Recent Updates</a></li>
+  <li><a href="Dino%20Dossiers%20-%20Official%20ARK_%20Survival%20Evolved%20Wiki_files/Dino.html">All Dino's</a></li>
+  <li><a id="abcdefg" href="../../Home/index.html">Back To Home</a></li>
+</ul>
+
+    <video id="w" width="700" autoplay>
+  <source src="ARK%20Survival%20Evolved%20-%20PS4%20Game%20Launch%20Trailer.mp4" type="video/mp4">
+  <source src="ARK%20Survival%20Evolved%20-%20PS4%20Game%20Launch%20Trailer.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
+
+
+   
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+     <link rel="icon" href="../IMG_0573.PNG" type="image/gif" sizes="16x16">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>Ark Survival Evolved</title>
+</head>
+<body>
+<heading id="e" > ARK SURVIVAL EVOLVED&#169;</heading>  
+<h3 id="a">Welcome to the unofficial community website about Ark Survival Evolved designed and created by <h3 id="b">@G&H</h3> </h3>
+ 
+
+    <ul class="r">
+  <li><a href="../ARK.html">Ark Survial Evolved</a></li>
+  <li><a href="../RU.html">Recent Updates</a></li>
+  <li><a href="../Dino%20Dossiers%20-%20Official%20ARK_%20Survival%20Evolved%20Wiki_files/Dino.html">All Dino's</a></li>
+   <li><a id="abcdefg" href="../../../Home/index.html">Back To Home</a></li>
+</ul>
+
+ 
+
+
+    <h1 id="z">"Patch 258: Harpoon Gun, Yutyrannus, Optimizations!!!!!!!!!!!!!, 2 New Hairstyles, and more!"</h1>
+    <img id="tek"src="257.jpg">
+    
+       <h3 id="ui">
+1. <b>New Weapon:</b> Harpoon Gun!<br><br>
+2. <b>New Dino:</b> Hesperornis!<br><br>
+3. <b>New Dino:</b> Megatherium!<br><br>
+4. <b>New Dino:</b> Megalania!<br><br>
+5. <b>New Dino:</b> Yutyrannus<br><br>
+6. 2 New Hairstyles<br><br>
+7. Optimizations!!!!!!!!!!!!! Memory reductions, texture memory & mesh optimization, and performance gains via GPU and CPU utilization & threading improvements.<br><br>
+8. Various bug fixes TBA<br><br>
+    </h3>
+    
+<h4 id="iam">Got this from <a href="http://ark.gamepedia.com/256.0">Survive The Ark WIKI</a></h4>
+
+    </body>
+</html>
+

@@ -1,0 +1,346 @@
+body {
+    background: url("../maxresdefault.png"), url("../ARK.jpg") ;
+
+} 
+
+#a {
+    position: absolute;
+    top: 100px;
+    padding-left: 500px;
+    font-style: italic;
+}
+
+#e {
+    color: #7ca026;
+    font-style: oblique;
+    font-size: 100px;
+    position: absolute;
+    left: 371px;
+    top: 0px;
+}
+
+.r{
+    position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #7ca026;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 100px 70px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #91c515;
+    color: white;
+}
+
+#b{
+    position: absolute;
+    top: 100px;
+    padding-left: 1260px;
+    font-style: italic;
+    color: darkred;
+}
+
+
+
+#g {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 200px;
+    left: 360px;
+}
+
+#t {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 200px;
+    left: 640px;
+}
+
+#u {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 200px;
+    left: 920px;
+}
+
+#p {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 200px;
+    left: 1200px;
+}
+
+
+#ws {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 200px;
+    left: 1480px;
+}
+
+#as {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 395px;
+    left: 360px;
+}
+#rts {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 395px;
+    left: 640px;
+}
+#oop {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 395px;
+    left: 920px;
+}
+#sws {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 395px;
+    left: 1200px;
+}
+
+
+
+#nick {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 395px;
+    left: 1480px;
+}
+
+#rainbow {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 590px;
+    left: 360px;
+}
+
+#awesome {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 590px;
+    left: 640px;
+}
+
+#no {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 590px;
+    left: 920px;
+}
+
+
+#yes {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 590px;
+    left: 1200px;
+}
+
+#maybe {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 590px;
+    left: 1480px;
+}
+
+#granted {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 785px;
+    left: 360px;
+}
+
+#exception {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 785px;
+    left: 640px;
+    
+}#ificould {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 785px;
+    left: 920px;
+}
+
+#ididnot {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 785px;
+    left: 1200px;
+}
+
+#idid {
+    border-top-width: 20px;
+     border-right-width:20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-style: ridge;
+    border-color: #7ca026;
+    height: 155px;
+    width: 240px;
+    position: absolute;
+    top: 785px;
+    left: 1480px;
+}
+
+
+#text {
+    background-color: white;
+    color: white;
+    position: absolute;
+    left: 500px;
+}
+
+li:nth-child(4) {
+    background: black;
+   
+}
+

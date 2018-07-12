@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+     <link rel="icon" href="../IMG_0573.PNG" type="image/gif" sizes="16x16">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>Ark Survival Evolved</title>
+</head>
+<body>
+<heading id="e" > ARK SURVIVAL EVOLVED&#169;</heading>  
+<h3 id="a">Welcome to the unofficial community website about Ark Survival Evolved designed and created by <h3 id="b">@G&H</h3> </h3>
+ 
+
+    <ul class="r">
+  <li><a href="../ARK.html">Ark Survial Evolved</a></li>
+  <li><a href="../RU.html">Recent Updates</a></li>
+  <li><a href="../Dino%20Dossiers%20-%20Official%20ARK_%20Survival%20Evolved%20Wiki_files/Dino.html">All Dino's</a></li>
+  <li><a id="abcdefg" href=".../../../../../Home/index.html">Back To Home</a></li>
+</ul>
+
+ 
+
+    <h1 id="z">"Patch 256: Tek Tier phase 3, Equus, Leedsichthys, Ichthyornis, Iguanodon, and more!"</h1>
+    <img id="tek"src="256.jpg">
+    <h3 id="ui">This update is one of the biggest updates introduced to Ark Survial Evolved! This made all Ark Player hyped for this game. Many new players are joining our wonderfull community for the early acces benefits, Join Quick! Here are some of the patch notes:<br><li>New Mechanic: Aquatic &amp; Amphibious Creature Breeding</li>
+<li> New Dino: Equus!</li>
+        <li> New Dino: Leedsichthys!</li>
+<li> New Dino: Ichthyornis!</li>
+<li> New Dino: Iguanodon<!</li>
+<li> New Structures &amp; Mechanic: Tek Underwater Bases</li>
+<li> New Structure: TEK Teleporter</li>
+<li> New Structure: TEK Mosa Saddle</li>
+<li> New Structure:Tek Power Generator</li>
+<li> Total Inventory Menu redesign (other UI's coming soon!)</li>
+<li> Flyer Nerf (to allow server to recover Stamina when standing on a Flyer, run with&nbsp;?AllowFlyingStaminaRecovery=true)</li>
+<li> Reduced Vault Size</li>
+<li> Limited one C4 attached per dino, unless you run with this console command:&nbsp;?AllowMultipleAttachedC4=true</li>
+<li> Sheep now have a "Slaughter" option when you have a club, sword, hatchet etc equipped, also works on PvE</li>
+<li> 1 New Hairstyle and 1 New Facial hairstyle (male and female variants)</li>
+<li> 20+ new Explorer Notes</li>
+
+    </h3><h4 id="copen">got this from <a href="http://ark.gamepedia.com/256.0">Survive The Ark WIKI</a></h4>
+
+    </body>
+</html>
