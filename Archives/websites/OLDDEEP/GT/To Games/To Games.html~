@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="UTF-8">
+         <link rel="icon" href="../logo.png" type="image/gif" sizes="100x100">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+        <link rel="stylesheet" type="text/css" href="style.css">
+<title>G&H</title>
+</head>
+<body>
+
+
+    
+    <ul class="r">
+  <li><a href="../Home/index.html">Home</a></li>
+  <li><a href="To%20Games.html">Games</a></li>
+     <li><a href="../FAQ/FAQ.html">BETA {.56]<br>Can You Run It?</a></li>
+  <li><a href="../contact/contact.html">Contact</a></li>
+</ul>
+
+    <table>
+  <tr>
+    <th>Games</th>
+    <th>About</th>
+    <th>Platform</th>
+    <th>Release Date</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td><a href="../Games/ARK/ARK.html">Ark Survial Evolved [I stopped updating due to to much work]</a></td>
+    <td>open world action-adventure survival video game in development by Studio Wildcard in cooperation with Instinct Games, Efecto Studios, and Virtual Basement.</td>
+    <td>PC/PS4/Xbox One</td>
+    <td>spring 2017 (not released) Early Acces</td>
+    <td>(PC $29.99) (Console $59.99)</td>
+  </tr>
+   <tr>
+    <td><a href="../../rps/RPSS.html">Rock, Paper, Scissors, Shoot!</a></td>
+    <td>Fun little game using html. Rock paper scissors</td>
+    <td>Web Browser</td>
+    <td>May 13, 2017</td>
+    <td>FREE</td>
+  </tr>
+<tr>
+    <td><a href="../../JEAPORDY/JEP.html">Jeaapordy</a></td>
+    <td>A JEAPORDY game for website develepment and more.</td>
+    <td>Web Browser</td>
+    <td>May 13, 2017</td>
+    <td>FREE</td>
+  </tr>
+
+
+</table>
+
+   <heading id="e">Game & Hardware</heading>  
+
+</body>
+</html>

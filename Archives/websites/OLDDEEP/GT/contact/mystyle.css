@@ -1,0 +1,143 @@
+
+body {
+ background-color: darkslategray;
+  margin: 2em;
+}
+
+textarea {
+  font-size: 100%;
+  background-color: lightgrey;
+  color: black;
+  width: 55%;
+}
+.content-head {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2em 0 1em;
+}
+.is-center {
+    color: bisque;
+  text-align: center;
+}
+.button-success {
+  color: red;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: grey; /* this is a green */
+}
+.button-xlarge {
+  font-size: 125%;
+}
+button {
+  float: right;
+}
+#name, #First {
+position: absolute;
+left: 6%;
+width: 50%;
+font-size: 100%;
+color: black;
+background-color: bisque;
+}
+
+label {
+    position: absolute;
+    left: 0%;
+    color: tan;
+}
+
+input {
+    font-size: 100%;
+}
+
+h4 {
+    position: absolute;
+    left: 200%;
+    top: 312px;
+    color: red;
+}
+
+#help {
+    width: auto
+    position: absolute;
+    left: 20%;
+   font-size: 30px;
+    background-color: bisque; /* same color as selected state on site menu */
+    padding: 0.3em 1em;
+    border-radius: 3px;
+    color: black;
+    margin-bottom: 2em; 
+}
+
+#spam {
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    background: red; /* same color as selected state on site menu */
+    padding: 0.3em 1em;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 2em;
+}
+
+.r{
+    position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:tan;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 100px 70px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: grey;
+    color: white;
+}
+.pure-group {
+    color: bisque;
+    height: 50px;
+  position: relative;
+left: 11%;
+width: 87.4%;
+}
+#email {
+   position: absolute;
+left: 11%;
+width: 46%;
+font-size: 100%;
+color: black;
+background-color: bisque; 
+} 
+
+#date {
+    position: absolute;
+left: 12%;
+font-size: 100%;
+color: black;
+background-color: bisque; 
+}
+
+#message {
+width: 51%;
+position: absolute;
+left: 5%;
+font-size: 100%;
+color: black;
+background-color: bisque; 
+}
+
+#mess {
+     height: 150px;
+  position: relative;
+left: 11%;
+width: 87.4%;
+}

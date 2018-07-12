@@ -1,0 +1,112 @@
+body {
+    background-image: url(0001.png);
+} 
+
+
+
+
+#e {
+    float: left;
+    color: white;
+    font-style: oblique;
+    font-size: 100px;
+    position: fixed;
+    left: 600px;
+    top: 0px;
+}
+
+.r{
+    position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: white;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 100px 70px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: red;
+    color: white;
+}
+#redit {
+    float: left;
+    position: absolute;
+    left: 340px;
+    top: 20px;
+    
+}
+
+#dedit {
+    float: right;
+    position: absolute;
+    left: 1300px;
+    top: 20px;
+    
+}
+
+#abcdefg {
+    float: left;
+    color: black;
+    font-style: oblique;
+    position: fixed;
+    left: 1220px;
+    top: -123px;
+}
+
+
+#ert {
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 650px;
+}
+    
+#erts {
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 485px;
+    }
+
+
+#lol {
+    color: white;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+textarea {
+    background-color: white;
+    position: absolute;
+    right: 10px;
+    top: 170px;
+}
+
+#IM {
+    color: white;
+    position: absolute;
+    top: 450px;
+    right: 700px;
+}
+
+#IMM {
+    background-color: white;
+    height: 400px;
+    width: 800px;
+    color: black;
+    position: absolute;
+    top: 500px;
+    right: 400px;
+}
+
+
+

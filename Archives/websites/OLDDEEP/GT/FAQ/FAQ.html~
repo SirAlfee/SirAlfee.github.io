@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+         <link rel="icon" href="../logo.png" type="image/gif" sizes="100x100">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>G&H</title>
+</head>
+<body>
+
+
+    
+    <ul class="r">
+  <li><a href="../Home/index.html">Home</a></li>
+  <li><a href="../To%20Games/To%20Games.html">Games</a></li>
+  <li><a href="#">BETA {.56]<br>Can You Run It?</a></li>
+  <li><a href="../contact/contact.html">Contact</a></li>
+</ul>
+
+    <a href="http://deepthought.wtahs.com/~moynni20/install.sh" download>
+     <img id="download" border="0" src="download.png" width="20%" height="10%">
+    </a>
+    
+
+<h1 id="linux">LINUX~</h1>
+<h1 id="windows">Windows~{[(COMING SOON)]}</h10>    
+  
+   
+
+  <heading id="e">Game & Hardware</heading>  
+
+</body>
+</html>

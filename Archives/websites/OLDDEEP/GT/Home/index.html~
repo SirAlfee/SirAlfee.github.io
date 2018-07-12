@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+         <link rel="icon" href="../logo.png" type="image/gif" sizes="100x100">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>G&H</title>
+</head>
+<body>
+
+
+    
+    <ul class="r">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="../To%20Games/To%20Games.html">Games</a></li>
+  <li><a href="../FAQ/FAQ.html">BETA {.56]<br>Can You Run It?</a></li>
+  <li><a href="../contact/contact.html">Contact</a></li>
+</ul>
+
+    
+    <h1 id="ert">Welome to the community of Game & Hardware!</h1> <h2 id="erts">This Website contains everything you need to know from Video Game release and updates to <br>PC Hardware. We recomend that you favorite this website to see when it is complete and check<br> daily on new game updates and releases. Also if you'r planning on buying a new game check out<br> the Can You Run It? page to see if you can handle the game. I hate it when I buy a new game and<br> I cant run it!</h2>
+    
+    
+    <h2 id="lol">Recent Updates</h2>
+    
+
+
+  
+   
+
+  <heading id="e">Game & Hardware</heading>  
+
+</body>
+</html>

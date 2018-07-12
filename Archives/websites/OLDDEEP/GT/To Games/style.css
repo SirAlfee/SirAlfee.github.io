@@ -1,0 +1,92 @@
+body {
+    background-image: url(../Home/0001.png)
+} 
+
+
+a {
+    color: fuchsia;
+}
+
+#e {
+    color: red;
+    font-style: oblique;
+    font-size: 100px;
+    position: fixed;
+    left: 600px;
+    top: 0px;
+}
+
+.r{
+    position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #2e2929;
+}
+
+li a {
+    display: block;
+    color: red;
+    padding: 100px 70px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: grey;
+    color: white;
+}
+
+#er {
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
+
+table {color: red;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 900px;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+td, th {
+    border: 1px solid red;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #2e2929;
+}
+
+#abcdefg {
+    float: left;
+    color: red;
+    font-style: oblique;
+    position: fixed;
+    left: 1220px;
+    top: -123px;
+}
+
+#redit {
+    float: left;
+    position: absolute;
+    left: 340px;
+    top: 20px;
+    
+}
+
+#dedit {
+    float: right;
+    position: absolute;
+    left: 1300px;
+    top: 20px;
+    
+}
+
+
+</style>
