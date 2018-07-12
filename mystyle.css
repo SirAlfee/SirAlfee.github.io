@@ -1,5 +1,5 @@
 html {
-    background-color: black;
+    background-color: #151315;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -11,13 +11,13 @@ html {
 
 
 .middle {
-    background-color: #191119;
+    background-color: white;
     float: right;
     text-align: center;
     position: relative;
     bottom: 65%;
     right: 3.5%;
-    color: white;
+    color: black;
     height: 250px;
     width: 400px;
 }
@@ -33,7 +33,7 @@ hr {
 
 .link:link,
 .link:visited {
-    background-color: aqua;
+    background-color: white;
     color: white;
     padding: 14px 25px;
     text-align: center;
@@ -44,7 +44,7 @@ hr {
 
 .link:hover,
 .link:active {
-    background-color: mediumpurple;
+    background-color: white;
 }
 
 
@@ -67,18 +67,18 @@ hr {
 }
 
 .icon-bar a:hover {
-    background-color: mediumpurple;
+    background-color: white;
 }
 
-.active {
-    background-color: mediumpurple !important;
+w .active {
+    background-color: coral !important;
 }
 
 #titleupdate {
-    background-color: mediumpurple;
+    background-color: white;
     position: relative;
     bottom: 28%;
-    color: white;
+    color: black;
     font-family: "Courier New", Courier, monospace;
     font-size: 25px;
     width: 24.57%;
@@ -89,7 +89,7 @@ hr {
 #Updates {
     font-family: "Courier New", Courier, monospace;
     float: left;
-    background-color: mediumpurple;
+    background-color: white;
     float: left;
     position: relative;
     bottom: 38%;
