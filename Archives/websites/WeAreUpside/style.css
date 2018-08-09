@@ -1,0 +1,105 @@
+html {
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: #9F78D1;
+  background-repeat: no-repeat;
+  background: -webkit-linear-gradient(#9F78D1, #667CEB);
+  background: -moz-linear-gradient(#9F78D1, #667CEB);
+  background: -ms-linear-gradient(#9F78D1, #667CEB);
+  background: -o-linear-gradient(#9F78D1, #667CEB);
+  background: linear-gradient(#9F78D1, #667CEB);
+}
+
+.title {
+  font-family: Blippo, fantasy;
+  color: #724049;
+  text-align: center;
+}
+
+#Nav_Bar_Button_IMG_OPEN {
+  float: left;
+  position: absolute;
+  top: 0;
+  margin: 10px;
+}
+
+#Nav_Bar_Button_IMG_CLOSE {
+  float: right;
+  margin: 10px;
+}
+
+
+#Nav_Bar {
+  padding-top: 10px;
+  position: fixed;
+  float: right;
+  background: radial-gradient(#9F78D1, #724049);
+  text-align: left;
+  width: 0px;
+  height: 100%;
+  overflow-x: hidden;
+  transition: 0.5s;
+  top: 0;
+}
+
+a {
+  display: block;
+  padding: 10px 40px;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  margin: 0px;
+}
+
+.showroom {
+  background: radial-gradient(#9F78D1, #724049);
+  border: 10px #8d55d6;
+  border-style: inset;
+  position: absolute;
+  text-align: center;
+  left: 35%;
+  width: 30%;
+}
+
+#NewMusic_Pic {
+  border: 8px solid #562b48;
+  background-color: black;
+  width: 90%;
+  height: inherit;
+}
+
+#Play_Pause_Song {
+  width: 130px;
+  height: 100px;
+  position: absolute;
+  left: 30%;
+  bottom: 30%;
+}
+
+.New_Album {
+  font-family: OCR A Std, monospace;
+  margin: 0px;
+}
+
+.New_Album_Cover {
+  font-family: OCR A Std, monospace;
+  color: #d7bef7;
+  margin: 0px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  right: 0;
+  color: white;
+  background-color: black;
+}

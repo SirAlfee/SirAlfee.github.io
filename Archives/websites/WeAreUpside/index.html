@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- title -->
+  <title>Upside</title>
+  <!-- Connects index.html to style.css -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <!-- Favicon -->
+  <link rel="icon" href="Images/Upside_Icon.jpg">
+</head>
+
+<body>
+  <!-- title -->
+  <h1 class="title">Upside</h1>
+
+  <!-- TODO: Create verticle Nav Bar for; Store, About Us, Home and Songs. -->
+
+  <img id="Nav_Bar_Button_IMG_OPEN" src="Images/Nav_Bar_Button_Open_IMG.png" onclick="Nav_Bar_open()" height="20px" alt="">
+  <div id="Nav_Bar">
+  </div>
+
+
+
+
+  <!-- This is for the Latest Song Release -->
+  <div class="showroom">
+    <h1 class="New_Album">New Album</h1>
+    <h3 class="New_Album_Cover">Vertigo</h3>
+    <img src="Images/play.png" id="Play_Pause_Song" onclick="playAlbum()" />
+
+    <img src="Music/Vertigo/Vertigo_Album_Cover.jpg" id="NewMusic_Pic" onclick="playAlbum()" />
+  </div>
+  <audio id="NewMusic_SongPlaying" src="Music/Vertigo/vertigo.mp3"></audio>
+  <!-- DONE-->
+
+
+
+  <!-- Start of Footer -->
+  <footer>
+    <p> Copyright (c) 2018 Copyright Holder All Rights Reserved.</p>
+  </footer>
+  <!-- Done -->
+
+  <!-- Connects index.html to scripts.js -->
+  <script src="scripts.js"></script>
+</body>
+
+</html>
