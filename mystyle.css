@@ -105,6 +105,6 @@ w .active {
 
 #Trailer {
     position: relative;
-    height: 305px;
-    width: 966px;
+    height: 500px;
+    width: auto;
 }
