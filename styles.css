@@ -2,43 +2,56 @@
   text-align: center;
 }
 
-.illustration {
-  width: 100%;
+.Highlight {
+  display: flex;
+  justify-content: center;
 
 }
+
+.update_log {
+  display: flex;
+  justify-content: left;
+  background-color: white;
+  width: 32%;
+
+}
+
+.timer {
+  display: flex;
+  flex-direction: column;
+  j
+}
+
+#titleupdate, #Updates {
+
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    resize: none;
+  }
+
+  #Trailer {
+    width: 40%;
+    height: 40%;
+  }
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
-    background-color: #F09A9D;
-    /* Red */
+    background-color: #2a1e63;
   }
 }
 
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   body {
-    background-color: yellow;
-    /* Red */
-  }
-
-  .sign-up,
-  .feature-1,
-  .feature-2,
-  .feature-3 {
-    width: 50%;
+    background-color: #5b585b;
   }
 }
 
 /* Desktop Styles */
 @media only screen and (min-width: 980px) {
-  .illustration {
-    width: 100%;
-    position: relative;
-    left: 35%;
-  }
+
   body {
-    background-color: aqua;
-    /* Red */
+    background-color: #151315;
   }
 }
