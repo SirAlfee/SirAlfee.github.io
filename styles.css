@@ -1,4 +1,7 @@
-
+body {
+  padding: 0px;
+  margin: 0px;
+}
 
 #Heading {
   text-align: center;
@@ -37,13 +40,35 @@
     padding-bottom: 3%;
   }
 
+#Nav_Open {
+  width: 40px;
+  height: 40px;
+  float: left;
+}
 
+#Nav_Close {
+  width: 0px;
+  height: 0px;
+  float: left;
+}
 
+#list_archives {
+  padding: 30px;
+  float: left;
+  width: 0%;
+  height: 500px;
+  color: grey;
+  font-size: 30px;
+}
+
+a {
+  color: grey;
+}
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
-    background-color: #2a1e63;
+    background-color: #151315;
   }
 
   .update_log {
@@ -63,6 +88,14 @@
         height: auto;
         padding-bottom: 5%;
   }
+
+  #list_archives {
+    padding: 10px;
+    height: auto;
+    font-size: 20px;
+  }
+
+
 }
 
 /* Tablet Styles */
@@ -87,12 +120,18 @@
       height: auto;
       padding-bottom: 3%;
     }
+
+  #list_archives {
+    padding: 15px;
+    height: 500px;
+    font-size: 25px;
+  }
 }
 
 /* Desktop Styles */
 @media only screen and (min-width: 980px) {
 
   body {
-    background-color: #151315;
+     background-color: #151315;
   }
 }
