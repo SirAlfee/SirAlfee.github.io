@@ -2,6 +2,7 @@
 
 #Heading {
   text-align: center;
+  color: grey;
 }
 
 .Highlight {
@@ -27,6 +28,7 @@
 #Updates {
    font-family: "Courier New", Courier, monospace;
    resize: none;
+   height: 360px;
  }
 
 #Trailer {
@@ -43,6 +45,24 @@
   body {
     background-color: #2a1e63;
   }
+
+  .update_log {
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+  }
+
+  #Updates {
+    height: 400px;
+  }
+
+
+  #Trailer {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+  }
 }
 
 /* Tablet Styles */
@@ -50,6 +70,23 @@
   body {
     background-color: #5b585b;
   }
+
+  .update_log {
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+  }
+
+  #Updates {
+    height: 500px;
+  }
+
+  #Trailer {
+      width: 100%;
+      height: auto;
+      padding-bottom: 3%;
+    }
 }
 
 /* Desktop Styles */
